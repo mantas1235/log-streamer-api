@@ -170,6 +170,3 @@ Ateityje projektą galima plėsti pridedant:
 - Išplėstinę autentifikaciją su **JWT**
 - **Docker** palaikymą
 
-## Licencija
-
-Nurodykite pasirinktą licenciją, pavyzdžiui, `MIT`.
